@@ -1,7 +1,7 @@
 # ILI9341-TEST
 Testing the Adafruit 2.4" TFT LCD with a Particle Photon
 
-Pin Layout:
+Pin Layout (Photon / Adafruit LCD):
 
 * A1 - D/C
 * A2 - CS
